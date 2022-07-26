@@ -4,7 +4,8 @@ This repo will allow you to scale customer interactions using Dialogflow before 
 
 ## Description
 
-This repo is a supplementary reference to the following blog post [link tbd]
+This repo is a supplementary reference to the following blog post:
+[Integrate Dialogflow with Twilio Conversations using NestJS](https://www.twilio.com/blog/integrate-dialogflow-conversations-nestjs)
 
 ## Installation
 
